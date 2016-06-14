@@ -1,2 +1,2 @@
-# Machine-Learning-Octave-
+# MachineLearning-Octave
 self-study assignments
